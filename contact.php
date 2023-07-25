@@ -84,7 +84,7 @@
                                     </ul>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="page-scroll" href="contact.html">Contact</a>
+                                    <a class="page-scroll" href="contact.php">Contact</a>
                                 </li>
                             </ul>
                             <form action="#" class="search-form">
@@ -307,7 +307,7 @@
                 </div>
                 <div class="col-xl-7 col-lg-5">
                     <div class="contact-btn text-start text-lg-end">
-                        <a href="contact.html" rel="nofollow" class="theme-btn">Purchase Now</a>
+                        <a href="contact.php" rel="nofollow" class="theme-btn">Purchase Now</a>
                     </div>
                 </div>
             </div>
@@ -387,7 +387,7 @@
                                 <a href="service-1.html">Service</a>
                             </li>
                             <li>
-                                <a href="contact.html">Contact</a>
+                                <a href="contact.php">Contact</a>
                             </li>
                         </ul>
                     </div>
